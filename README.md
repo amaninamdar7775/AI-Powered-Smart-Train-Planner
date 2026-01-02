@@ -1,74 +1,73 @@
-🚆 AI-Powered Smart Train Planner — Mumbai Local Railways
+🚆 Smart Crowd-Aware Train Planner — Mumbai Local Railways
 
-An intelligent crowd-aware system designed to make Mumbai Local train travel safer, smarter, and more efficient through real-time crowd monitoring, train occupancy insights, and congestion-aware travel guidance.
+A real-time AI-driven system designed to make Mumbai Local train travel safer, efficient, and commuter-friendly by monitoring crowd density, predicting congestion, and guiding passengers with smarter travel insights.
 
-🌍 Why This Project?
+🌍 Problem Context
 
-Mumbai Locals carry 7.5+ million passengers daily — but face challenges like:
+Mumbai Locals transport millions of passengers every day, leading to:
 
-Extreme rush & overcrowding
+Heavy rush and overcrowded platforms
 
-Platform congestion & safety risks
+Safety risks during peak hours
 
-Unpredictable peak-hour traffic
+Unpredictable congestion patterns
 
-Lack of real-time visibility for commuters & authorities
+Limited real-time awareness for commuters and authorities
 
-Our system helps predict, monitor, and manage crowd flow across stations and trains.
+The system helps monitor, predict, and manage crowd movement across stations and trains.
 
-💡 What the System Does
+💡 Core Solution
 
-✔ Detects & monitors crowd density at stations and inside trains
-✔ Provides live train occupancy status to commuters
-✔ Predicts peak-hour congestion using AI
-✔ Suggests safer alternative trains / routes
-✔ Sends real-time alerts & notifications
-✔ Supports authorities with dashboards & analytics
+✔ Real-time crowd density monitoring
+✔ Live train occupancy visibility
+✔ AI-based congestion prediction
+✔ Safer route & train suggestions
+✔ Instant alerts and notifications
+✔ Decision dashboards for authorities
 
-🧠 Tech Stack
+🧠 Technology Stack
 
-AI & Machine Learning — congestion prediction
+AI & Machine Learning — rush pattern analytics
 
-YOLO-based people detection & analytics
+YOLO-based people detection
 
-IoT Sensors & Smart Camera integration
+IoT sensors & smart camera integration
 
-Flask Backend + Web Dashboard
+Flask backend + web dashboard
 
-Cloud Storage & Processing
+Cloud data processing
 
-Mobile & Public Display Support
+Mobile & public display support
 
-🗂 Project Modules
+🗂 System Components
 
-Crowd Detection & Monitoring
+Crowd Monitoring Module
 
-Train Occupancy Estimation
+Train Occupancy Estimator
 
 Congestion Prediction Engine
 
-Authority Dashboard
+Authority Control Dashboard
 
-Passenger Guidance & Alerts
+Passenger Guidance & Alerts Panel
 
-🚀 Impact & Value
+🚀 Key Impact
 
-✨ Safer boarding experience
-✨ Reduced overcrowding & accidents
-✨ Faster decision-making for rail authorities
-✨ Smarter passenger movement
-✨ Scalable across Indian metro systems
+✨ Safer & organized passenger movement
+✨ Reduced overcrowding & incident risk
+✨ Improved operational decisions
+✨ Better commuter travel experience
+✨ Scalable to other metro & rail networks
 
 👥 Team — 404 Not Found | ByteCamp 2025
 
-Open Innovation Track
-Mumbai Local Smart Mobility Initiative
+Open Innovation Track — Smart Mobility Initiative
 
-📌 Summary
+📌 Project Vision
 
-This project builds a future-ready smart railway ecosystem that transforms Mumbai Local travel using:
+Building a next-generation intelligent railway ecosystem powered by:
 
 👉 AI
 👉 Real-time analytics
 👉 Crowd intelligence
-👉 Data-driven operations
+👉 Data-driven planning
